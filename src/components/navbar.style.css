@@ -1,0 +1,16 @@
+nav {
+    width: 100vw;
+    display: flex;
+    background-color: #4285f4;
+    margin: 0;
+    padding: 0;
+    flex-direction: row-reverse;
+}
+
+button {
+    padding: 0.5em 1em;
+    background-color: #EB4F6F;
+    border: none;
+    color: white;
+    margin: 0.5em;
+}
